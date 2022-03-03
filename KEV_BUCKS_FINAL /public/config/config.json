@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x15c57723cba5a8D55D8BAFdE10D75053a33688ef",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x15c57723cba5a8D55D8BAFdE10D75053a33688ef",
+  "NETWORK": {
+    "NAME": "ethereum",
+    "SYMBOL": "eth",
+    "ID": 1
+  },
+  "NFT_NAME": "KEVIN BUCKZ",
+  "SYMBOL": "KBUCKZ",
+  "MAX_SUPPLY": 1069,
+  "WEI_COST": 11000000000000000,
+  "DISPLAY_COST": 0.011,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnet.opensea.io/collection/kevin_buckz",
+  "SHOW_BACKGROUND": true
+}
